@@ -7,12 +7,12 @@
 You can install **measure-fn** via npm:
 
 ```js
-npm install measure-fn
+npx jsr add @jitaro/measure-fn
 ```
 
 ## Usage
 
-```javascript
+```js
 import { measure } from 'measure-fn';
 
 const yourFunction = () => {
