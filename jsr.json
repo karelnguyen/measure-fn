@@ -1,0 +1,5 @@
+{
+  "name": "@jitaro/measure-fn",
+  "version": "0.1.0",
+  "exports": "./measure.ts"
+}
